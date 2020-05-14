@@ -1,4 +1,4 @@
-# discourse-webhook-github-issue
+# discourse-liferay
 
 This bot is a demo for Discourse webhooks which mades it parts of GSoC. The bot can be deployed on heroku or your server.
 
